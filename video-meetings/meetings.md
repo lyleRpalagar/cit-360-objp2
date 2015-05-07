@@ -1,5 +1,5 @@
 ### Meeting 1 
-[first meeting pt. 1] | (https://www.youtube.com/watch?v=yQTTQOZB1PI) 
+[first meeting pt. 1](https://www.youtube.com/watch?v=yQTTQOZB1PI) 
 
 [first meeting pt. 2](https://www.youtube.com/watch?v=OKirSapr7PA)
 
