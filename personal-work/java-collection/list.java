@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class List {
+public class list {
 
 	public static void main(String[] args) {
 		//  reference : https://www.youtube.com/watch?v=vTgNIh3-aEI
