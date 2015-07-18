@@ -1,0 +1,48 @@
+the "gop" is gonna handle all our game funcitons such as input, configs, grpahics objects, SpriteSheets
+
+GameName: The Dungeon Looter
+full-screen: yes
+
+
+
+* /////////////////////////////////////////////////////////////////////////////
+* GOP Managers - Handle all game system managers
+* /////////////////////////////////////////////////////////////////////////////
+* #############################################################################
+* Assets          - Handle spritesheets,textures,sounds,music
+* SpriteSheet     - Creates new spritesheets
+* keyInputManager - Handle keys
+* mouseManager    - Handle mouse
+* Gameloop        - Handle Gameloop,fps,scale
+* Vector2F        - Location class, all game-objects have a vector2F
+* Config          - handles configurable stuff
+* #############################################################################
+
+* /////////////////////////////////////////////////////////////////////////////
+* Project Managers - Handle all managers
+* /////////////////////////////////////////////////////////////////////////////
+
+Big Room extends DungeonRoom
+
+* #############################################################################
+* AnimationManager - Handle Animations in game
+* TileManager      - Handle game tiles
+* ParticleManager  - Handle particles
+* HUDmanager       - Handle screen hud
+* GUImanager       - Handle player GUI //Graphicle User Interface
+* InventoryManager - Handle inventorys ex:player inv,chest inv, etc
+* LevelLoaderState - Handle generating dungeon
+* DungeonRoom      - Class extends this to create new room types ex: BigRoom,SmallRoom, and what loot can spawn in that room
+* GameObject       - Handle non interactable game-objects
+* LightManager     - Handle game Lights
+* #############################################################################
+
+
+* /////////////////////////////////////////////////////////////////////////////
+* Entitys
+* /////////////////////////////////////////////////////////////////////////////
+
+* #############################################################################
+* BlockEntity - Moving dropped blocks
+* ItemEntity  - Moving dropped objects
+* #############################################################################
