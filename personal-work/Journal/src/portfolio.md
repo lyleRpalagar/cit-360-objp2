@@ -1,7 +1,7 @@
 # Portfolio CIT 360
 
 ### Full portfolio can be found in [here](https://github.com/lyleRpalagar/cit-360-objp2/tree/master/personal-work)
-
+### Self Reflected Meta Cognitive Exp. [LOOK LOOK CLICK ME CLICK ME](https://github.com/lyleRpalagar/cit-360-objp2/tree/master/personal-work/Journal/src)
 # Topic and Resources
 
 ## Java Collections
