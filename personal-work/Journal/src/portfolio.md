@@ -72,6 +72,12 @@ mine populated as so:
 ##### Professionlism in UML Diagram [see here](https://github.com/lyleRpalagar/cit-360-objp2/blob/master/personal-work/uml-diagram/class_diagram_def.md)
 
 
+## More History of professionlism
+- [Serialization, MVC, more UML](https://www.youtube.com/watch?v=gk5bF4hdB6g)
+- [Java Collection, Java Serialization, UML diagram, Hibernation](https://www.youtube.com/watch?v=aMI9mSCJOmA)
+- [CIT 360 2nd Meeting(try 2)](https://www.youtube.com/watch?v=-8zBXyk8PuI)
+- [Meeting 1](https://www.youtube.com/watch?v=OKirSapr7PA)
+
 ## MISC
   - [game operation system template](https://github.com/lyleRpalagar/cit-360-objp2/tree/master/personal-work/GameOperatingSystem/src/my/project/gop/main)
   - [dungeon looter game inprogress](https://github.com/lyleRpalagar/cit-360-objp2/tree/master/personal-work/TheDungeonLooter/src/my/tdl)
